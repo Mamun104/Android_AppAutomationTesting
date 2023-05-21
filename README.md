@@ -15,6 +15,7 @@
 - Appium
 - Appium Inspector
 - Vysor or NOX
+- Debug APK
 
 ## Prerequisite To use APPIUM
 
@@ -49,6 +50,28 @@ Appium is used for automated testing of native, hybrid, and web applications. It
 ### Appium Architecture
 
 ![app](https://github.com/Mamun104/Android_AppAutomationTesting/assets/78067017/7abdfe23-94fd-4323-805e-eb853df6310d)
+
+### HOW TO RUN THIS PROJECT
+
+- clone the project
+
+- Start the appium server
+
+- Connect mobile device with USB
+
+- Set the debug mode on from mobile device
+
+- Allow connection from phone
+
+- Make sure the phone is unlocked
+
+- Open build.gradle as project by intellIJ
+
+-  give this command:
+
+            gradle clean test 
+
+            
 
 
 
