@@ -74,7 +74,9 @@ Appium is used for automated testing of native, hybrid, and web applications. It
             
 ## Output
 
-![APPPIC](https://github.com/Mamun104/Android_AppAutomationTesting/assets/78067017/878c66a2-05d9-43ca-a3f7-519ce46c15b4)
+![a2](https://github.com/Mamun104/Android_AppAutomationTesting/assets/78067017/4eb5d330-36bb-4327-a97b-9d1e75527942)
+![allure](https://github.com/Mamun104/Android_AppAutomationTesting/assets/78067017/3d508120-31a3-4f25-831e-454508c839ae)
+
 
 
 
